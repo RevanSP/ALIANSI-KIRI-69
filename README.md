@@ -1,5 +1,5 @@
 <body>
-    <h1>ALIANSI-KIRI-69</h1>
+    <h1>ALIANSI TEAM</h1>
     <h2>Made With :</h2>
 <ul>
     <li>HTML</li>
